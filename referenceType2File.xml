@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>dae2ecee8a704dd59797e26554ff8606</guid>
+    <fileName>Assets/Plugins/GitHub/Editor/ExtensionLoader.cs</fileName>
+    <timeStamp>2019-06-20T20:09:55+09:00</timeStamp>
+    <typeFullName>
+      <string>GitHub.Unity.ExtensionLoader</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>555cd6f54c03341b1970d950df1a5ee5</guid>
+    <fileName>Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs</fileName>
+    <timeStamp>2019-06-20T20:09:47+09:00</timeStamp>
+    <typeFullName>
+      <string>GitHub.Unity.UnityAPIWrapper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2017-03-17T05:44:11+09:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a7f16f1c9da62534a89c82421313d1e7</guid>
+    <fileName>Assets/Scripts/BaseEnemy.cs</fileName>
+    <timeStamp>2020-11-21T04:40:03.0454547+09:00</timeStamp>
+    <typeFullName>
+      <string>BaseEnemy</string>
+      <string>BaseEnemy+Type</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66affd370da28d044ad3a1c62945800e</guid>
+    <fileName>Assets/Scripts/Bomb.cs</fileName>
+    <timeStamp>2020-11-20T17:29:26.3499662+09:00</timeStamp>
+    <typeFullName>
+      <string>Bomb</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1cbf490de5ab6004a9eee84e228c3ed4</guid>
+    <fileName>Assets/Scripts/Bullet.cs</fileName>
+    <timeStamp>2020-11-21T00:22:09.811137+09:00</timeStamp>
+    <typeFullName>
+      <string>Bullet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c57047ac2c0f8b4c9fbbe5986a76566</guid>
+    <fileName>Assets/Scripts/EnemyBoss1.cs</fileName>
+    <timeStamp>2020-11-20T22:12:21.068197+09:00</timeStamp>
+    <typeFullName>
+      <string>EnemyBoss1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a8c1a6e5fb798df4b9c8f355e84095fe</guid>
+    <fileName>Assets/Scripts/EnemyGenerator.cs</fileName>
+    <timeStamp>2020-11-21T02:24:42.009246+09:00</timeStamp>
+    <typeFullName>
+      <string>EnemyGenerator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2f5c4931082e3cc408d8728eae45cd23</guid>
+    <fileName>Assets/Scripts/EnemyGhost.cs</fileName>
+    <timeStamp>2020-11-20T18:26:58.6424733+09:00</timeStamp>
+    <typeFullName>
+      <string>EnemyGhost</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>083092143ea0d8240a869e4b935a6bf3</guid>
+    <fileName>Assets/Scripts/Explosion.cs</fileName>
+    <timeStamp>2020-11-21T02:46:17.0766655+09:00</timeStamp>
+    <typeFullName>
+      <string>Explosion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a3c60477c03226945b7de099ed3f5654</guid>
+    <fileName>Assets/Scripts/GameController.cs</fileName>
+    <timeStamp>2020-11-21T02:57:42.156908+09:00</timeStamp>
+    <typeFullName>
+      <string>GameController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>239193bdedddb3f40a1b15c23ad562de</guid>
+    <fileName>Assets/Scripts/Player.cs</fileName>
+    <timeStamp>2020-11-21T02:54:18.7309587+09:00</timeStamp>
+    <typeFullName>
+      <string>Player</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fe0d3653ecc013041aa93da655899951</guid>
+    <fileName>Assets/Scripts/Sound.cs</fileName>
+    <timeStamp>2020-11-19T16:58:36.9476666+09:00</timeStamp>
+    <typeFullName>
+      <string>Sound</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>efe10fd8edc63d64d82654b1b221f526</guid>
+    <fileName>Assets/Scripts/Util.cs</fileName>
+    <timeStamp>2020-11-19T16:50:20.2008621+09:00</timeStamp>
+    <typeFullName>
+      <string>Util</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
